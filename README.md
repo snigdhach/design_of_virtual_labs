@@ -7,3 +7,5 @@ It involves many lab experiments like :
 3. Steady state and transient time response analysis.
 4. Root locus desig based vlabs
 5. Frequency response analysis including Bode and Nyquist plots.
+
+Note: Code coming soon!
